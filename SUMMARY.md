@@ -1,5 +1,4 @@
 # Table of contents
 
-* [shaderwow](README.md)
-* [Untitled](untitled.md)
+* [Day.1](README.md)
 
